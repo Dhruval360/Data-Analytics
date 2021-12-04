@@ -12,3 +12,6 @@ Dhruval
 8.Stationariy test - acf,pacf
 9.If not stationary transform
 10.Conclusion -> Answer the questions in the PDF.
+
+Allow PCA to decide which vegetation variable to choose
+Say cases and vegetation could not be mapped as the localities of the cases arent known
